@@ -11,6 +11,8 @@ public class PruebaMatematica {
         ob1.b=35;
         ob1.sumar();
         
+        //crear metodo con parametros 
+        
         // se puede utilizar var 
             var a="buenos dias";
     }
