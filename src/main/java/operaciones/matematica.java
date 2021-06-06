@@ -3,7 +3,7 @@ package operaciones;
 
 
 public class matematica {
-    //atrinujos de la clase matematica
+    //atributos de la clase matematica
     int a;
     int b;
     
@@ -13,6 +13,12 @@ public class matematica {
         //variables locales
         int resultado=a + b;
         System.out.println("EL resultado es: " + resultado);
+    }
+    
+    public int sumar1(){
+        int resultado = a+b;
+        return resultado;
         
+    
     }
 }

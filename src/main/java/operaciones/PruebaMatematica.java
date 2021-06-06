@@ -12,6 +12,9 @@ public class PruebaMatematica {
         ob1.sumar();
         
         //crear metodo con parametros 
+        int res = ob1.sumar1();
+        System.out.println("res ="+ res);
+        System.out.println("El resultado de la suma es =" +ob1.sumar1());
         
         // se puede utilizar var 
             var a="buenos dias";
